@@ -1,25 +1,25 @@
 {
     "team": [
         {
-            "name": "Team Member Name 1",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Nimnad Mihiranga",
+            "email": "e18180@eng.pdn.ac.lk",
+            "eNumber": "E/18/180"
         },
         {
-            "name": "Team Member Name 2",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Nisala Induwara",
+            "email": "e18266@eng.pdn.ac.lk",
+            "eNumber": "E/18/266"
         },
         {
-            "name": "Team Member Name 3",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Shamod Geevinda",
+            "email": "e18397@eng.pdn.ac.lk",
+            "eNumber": "E/18/397"
         }
     ],
     "supervisors": [
         {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk"
+            "name": "Dr. Nadeesha Adikari",
+            "email": "nadeeshaa@eng.pdn.ac.lk"
         },
         {
             "name": "Supervisor 2",
@@ -31,8 +31,8 @@
             "title": "Paper Title",
             "authors": "Person1, Person2, ...",
             "venue": "Journal or Conference Name",
-            "doi": "#",
+            "doi": "#"
         }
     ],
-    "tags": ["Web", "Embedded Systems"]
+    "tags": ["Web", "Polutry Feed tracking", "Android", "Flutter"]
 }
