@@ -25,8 +25,7 @@ title:
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Other Sub Topics](#Our Solution is 'Poultry Master' )
-3. [Links](#links)
+2. [Links](#links)
 
 ---
 
